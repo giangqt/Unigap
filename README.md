@@ -1,4 +1,3 @@
-Here will be all the project.
 1. Project 1
   # Linux CMD Project
   
